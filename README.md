@@ -24,3 +24,5 @@
 - Windows (7/10/11)
 - Установленный **Python 3.10+** (добавлен в PATH)
 - Установленный **PyInstaller**
+
+pip install customtkinter psutil pyinstaller
